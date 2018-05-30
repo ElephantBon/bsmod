@@ -1,0 +1,8 @@
+container.campfire=Campfire
+container.fireplace=Fireplace
+container.furnace=Furnace
+blockCampfire=Campfire
+blockFireplace=Fireplace
+blockFurnace=Furnace
+blockRedstone=Redstone Block
+blockRedstoneIron=Redstone Iron Block
